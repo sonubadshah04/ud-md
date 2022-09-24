@@ -1,16 +1,16 @@
-# Ud_Md By Umar Rehman
+# Ud_Md By SONU BADSHAH
 
 
-<img src="https://i.imgur.com/9w8Feiv.jpeg" alt="nz" width="350"/>
+<img src="https://i.imgur.com/Uf5wnn2.jpeg" alt="nz" width="350"/>
 </p>
 
 
 </br>
 
-<a href="https://github.com/umar404"><img title="Author" src="https://img.shields.io/badge/Author-umar404-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/umar404"><img title="Stars" src="https://img.shields.io/github/stars/umar404/ud-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/umar404/network/members"><img title="Forks" src="https://img.shields.io/github/forks/umar404/ud-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/umar404/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/umar404/ud-md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/sonubadshah04"><img title="Author" src="https://img.shields.io/badge/Author-sonubadshah04-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/sonubadshah04"><img title="Stars" src="https://img.shields.io/github/stars/sonubadshah04/ud-md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/sonubadshah04/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sonubadshah04/ud-md?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/sonubadshah04/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sonubadshah04/ud-md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 
 
@@ -31,16 +31,16 @@
 
 ----
 
-> <a href="http://wa.me/+923165123719?text=Hi Umar +🙈🌸+I'm Your Big Fan🥰+github++INBOX+🤭+Love From me+🪄❢❢_"><img src="https://img.shields.io/badge/CONTACT-UMAR DEVIL-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/UMARMODS" /><br>
+> <a href="http://wa.me/+447513266106?text=Hi Sonu Badshah+🙈🌸+I'm Your Big Fan🥰+github++INBOX+🤭+Love From me+🪄❢❢_"><img src="https://img.shields.io/badge/CONTACT-SONU BADSHAH-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://youtube.com/c/OYTMentor" /><br>
 
 
 ----
 
-> <a href="https://www.youtube.com/c/UMARMODS"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/UMARMODS" /><br>
+> <a href="https://youtube.com/c/OYTMentor"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/OYTMentor" /><br>
 
 ----
 
-> <a href="https://github.com/umar404/blob/main/Features.md"><img src="https://img.shields.io/badge/Umar-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/UMARMODS" /><br>
+> <a href="https://github.com/sonubadshah04/blob/main/Features.md"><img src="https://img.shields.io/badge/Umar-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://youtube.com/c/OYTMentor" /><br>
 
 
   </div>
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/+447513266106"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
