@@ -40,7 +40,7 @@
 
 ----
 
-> <a href="https://github.com/sonubadshah04/blob/main/Features.md"><img src="https://img.shields.io/badge/Umar-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://youtube.com/c/OYTMentor" /><br>
+> <a href="https://github.com/sonubadshah04/blob/main/Features.md"><img src="https://img.shields.io/badge/Sonu-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://youtube.com/c/OYTMentor" /><br>
 
 
   </div>
