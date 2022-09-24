@@ -11,14 +11,14 @@ let buttonMessage= {
 'forwardingScore':222,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl': 'http://github.com/umar404/ud-md',
+'mediaUrl': 'http://github.com/sonubadshah04/ud-md',
 'mediaType': 2,
 'previewType': 2,
 'title': 'Searching Source Code?',
 'body': me,
 'thumbnail': thumb2,
-'sourceUrl': 'https://www.youtube.com/c/UMARMODS'}},
-'caption': 'http://github.com/umar404/ud-md',
+'sourceUrl': 'https://www.youtube.com/c/OYTMentor'}},
+'caption': 'http://github.com/sonubadshah04/ud-md',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
