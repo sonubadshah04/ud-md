@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/404"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/umar404" /></a>
+  <a href="https://github.com/sonubadshah04"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/umar404" /></a>
 </p>
 
 </details>
@@ -69,14 +69,14 @@
 # SIMPLE MD & NOWA BOT
 
 ### Thanks To: 
-**All member of [`WhatsAppCode`](https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y) team**
+**All member of [`WhatsAppCode`](https://chat.whatsapp.com/BXL6TP2NtDx38yYaMswEL4) team**
 
 #### Special Thanks to
-[![UMAR](https://github.com/umar404.png?size=100)](https://github.com/umar404)
+[![SONU](https://github.com/sonubadshah04.png?size=100)](https://github.com/sonubadshah04)
 
 > ` For help me create/fix this bot `
 
-> Open member for discussion group [`Come here WhatsApp Group `](https://chat.whatsapp.com/JkNBAHgVlO63VG7uGBrZ5Z)
+> Open member for discussion group [`Come here WhatsApp Group `](https://chat.whatsapp.com/BXL6TP2NtDx38yYaMswEL4)
 ## `READ README FIRST BEFORE USE THIS BOT!`
 
 --------
@@ -84,22 +84,22 @@
 
 | Name | LINK |
 |--------|--------|
-| **TITTLE** |[here](https://github.com/umar404/ud-md/#simple-md-bot) |
-| **ESM BOT** | [here](https://github.com/umar404/ud-md/#note-this-bot-is-esm-bot) |
-| **PRIVIEW** |[here](https://github.com/umar404/ud-md/#preview-bot) |
-| **NOTE** |[here](https://github.com/umar404/ud-md/#-english-) |
-| **TERMUX INSTALATION** |[here](https://github.com/umar404/ud-md/#for-termux-user) |
-| **TERMUX W/ UBUNTU** |[here](https://github.com/umar404/ud-md/#install-on-termux-with-ubuntu) |
-| **WINDOWS INSTALATION** |[here](https://github.com/umar404/ud-md/#for-windowsvpsrdp-user) | 
-| **ARGUMENTS OF RUNNING BOT** |[here](https://github.com/umar404/ud-md/#arguments-node----options-session-name) |
-| **FAQ** |[here](https://github.com/umar404/ud-md/#faq) | 
-| **CONTRIBUTE!!** |[here](https://github.com/umar404/ud-md/#want-to-contribute) |
-| **THATS TO** |[here](https://github.com/umar404/ud-md/#thanks-to) | 
+| **TITTLE** |[here](https://github.com/sonubadshah04/ud-md/#simple-md-bot) |
+| **ESM BOT** | [here](https://github.com/sonubadshah04/ud-md/#note-this-bot-is-esm-bot) |
+| **PRIVIEW** |[here](https://github.com/sonubadshah04/ud-md/#preview-bot) |
+| **NOTE** |[here](https://github.com/sonubadshah04/ud-md/#-english-) |
+| **TERMUX INSTALATION** |[here](https://github.com/sonubadshah04/ud-md/#for-termux-user) |
+| **TERMUX W/ UBUNTU** |[here](https://github.com/sonubadshah04/ud-md/#install-on-termux-with-ubuntu) |
+| **WINDOWS INSTALATION** |[here](https://github.com/sonubadshah04/ud-md/#for-windowsvpsrdp-user) | 
+| **ARGUMENTS OF RUNNING BOT** |[here](https://github.com/sonubadshah04/ud-md/#arguments-node----options-session-name) |
+| **FAQ** |[here](https://github.com/sonubadshah04/ud-md/#faq) | 
+| **CONTRIBUTE!!** |[here](https://github.com/sonubadshah04/ud-md/#want-to-contribute) |
+| **THATS TO** |[here](https://github.com/sonubadshah04/ud-md/#thanks-to) | 
 
 --------
 ## NOTE: THIS BOT IS [ESM](https://nodejs.org/api/esm.html) BOT
 > I opened discussiond for asking any problem or new feature, if i agree with that i will invite you in my repo/pull request your idea in this source code :)
-## BASE BY [UMAR](https://github.com/umar404/ud-md/tree/multi-device)
+## BASE BY [SONU](https://github.com/sonubadshah04/ud-md/tree/multi-device)
 --------
 
 
@@ -125,7 +125,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/umar404/ud-md
+$ git clone https://github.com/sonubadshah04/ud-md
 $ cd ud-md
 $ npm i 
 ```
@@ -170,7 +170,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/umar404/ud-md
+git clone https://github.com/sonubadshah04/ud-md
 cd ud-md
 npm install
 npm update
@@ -186,7 +186,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/umar404/ud-md
+git clone https://github.com/sonubadshah04/ud-md
 cd ud-md
 npm install
 npm update
